@@ -1,0 +1,9 @@
+de.lmu.ifi.dbs.jfeaturelib
+de.lmu.ifi.dbs.jfeaturelib.edgeDetector
+de.lmu.ifi.dbs.jfeaturelib.features
+de.lmu.ifi.dbs.jfeaturelib.features.sift
+de.lmu.ifi.dbs.jfeaturelib.features.surf
+de.lmu.ifi.dbs.jfeaturelib.pointDetector
+de.lmu.ifi.dbs.jfeaturelib.pointDetector.FAST
+de.lmu.ifi.dbs.jfeaturelib.shapeFeatures
+de.lmu.ifi.dbs.jfeaturelib.utils
